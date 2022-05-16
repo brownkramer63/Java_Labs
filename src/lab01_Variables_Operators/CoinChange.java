@@ -1,4 +1,4 @@
-package lab01;
+package lab01_Variables_Operators;
 
 /*
 1 quarter = 25 cents
