@@ -51,7 +51,7 @@ public class TrainBookingApp {
                     System.out.println("You can take " + train4);
                     return;
                 }else if(nonStop && !hasBag){  //verbose code
-                    System.out.println("You can take " + train1);
+                    System.out.println("You can take " + train1);   //BREAK TILL 3:20 PM
                     return;
                 }else{
                     System.out.println("You can take " + train1 + train2 + train3 + train4);
